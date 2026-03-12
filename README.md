@@ -50,4 +50,4 @@ O **Células** é um aplicativo Flutter desenvolvido para facilitar a organizaç
 *   Dados Mock (Simulados) via `MockDataService`.
 
 ---
-Desenvolvido com fé e dedicação. 🙏
+Desenvolvido por jobao. 🙏
