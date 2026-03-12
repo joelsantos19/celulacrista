@@ -3,8 +3,10 @@
 #video
 https://youtube.com/shorts/LWxa5tnYKR4?feature=share
 
-O **Células** é um aplicativo Flutter desenvolvido para facilitar a organização, participação e interação em comunidades cristãs e células (reuniões nos lares). O design foi inspirado por temas espirituais, utilizando uma paleta de cores **Vinho (Sangue de Cristo)** e **Bege (Papel de Bíblia Antiga)**.
+O **Células** é um aplicativo Flutter desenvolvido para facilitar a organização, participação e interação em comunidades cristãs e células (reuniões nos lares). O design foi inspirado por temas espirituais, utilizando uma paleta de cores **Vinho (Sangue de Cristo)** e **Bege (Papel de Bíblia Antiga)**. EEEEEEEEEEEEEEEITA GLOOOOOOOOOOOOORIA ALELUIA XARABACANTARABANÉPIA
 
+#Backend 
+Firebase - 
 ## 🚀 Como Começar
 
 ### Pré-requisitos
